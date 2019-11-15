@@ -1,4 +1,4 @@
-# アルメディアWEB 試作用
+# アルメディアWEB 試作用 更新 from Atom
 [サンプル](https://ken1127-dev.github.io/HTML_Try/ "サンプル")
 
 ## ToDo
